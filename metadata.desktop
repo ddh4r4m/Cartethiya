@@ -1,13 +1,13 @@
 [SddmGreeterTheme]
-Name=Apple Sequoia v1
-Description=apple like style
-Author=zayronxio
-Copyright=(c) 2024, zayronxio
-License=gpl3.0
+Name=Cartethiya
+Description=A modern and elegant SDDM theme
+Author=ddh4r4m
+Copyright=(c) 2024, ddh4r4m
+License=GPL-3.0
 Type=sddm-theme
 Version=1.0
 Screenshot=screenshot.jpg
 MainScript=Main.qml
 ConfigFile=theme.conf
-Theme-Id=Apple-Sequoia-v1.Plasma6
+Theme-Id=Cartethiya
 QtVersion=6
