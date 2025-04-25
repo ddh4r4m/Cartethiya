@@ -2,9 +2,13 @@
 
 A modern and elegant login theme for SDDM (Simple Desktop Display Manager).
 
-![Screenshot](screenshot.jpg)
+## 🖼️ Preview
 
-## Features
+<div align="center">
+  <img src="screenshot.jpg" alt="Cartethiya Theme Preview" width="800"/>
+</div>
+
+## ✨ Features
 
 - Clean and modern design
 - Elegant clock display
@@ -13,14 +17,14 @@ A modern and elegant login theme for SDDM (Simple Desktop Display Manager).
 - Smooth animations and transitions
 - High DPI support
 
-## Requirements
+## 📋 Requirements
 
 - SDDM
 - Qt 6
 - QtQuick 2.15 or higher
 - QtGraphicalEffects
 
-## Installation
+## 🚀 Installation
 
 ### Manual Installation
 
@@ -53,29 +57,29 @@ Current=Cartethiya
 sudo systemctl restart sddm
 ```
 
-## Testing
+## 🧪 Testing
 
 To test the theme without installing:
 ```bash
 sddm-greeter --test-mode --theme .
 ```
 
-## Customization
+## ⚙️ Customization
 
 The theme can be customized by editing the following files:
 - `theme.conf` - Basic theme configuration
 - `Main.qml` - Main theme layout and functionality
 - `components/Clock.qml` - Clock display customization
 
-## License
+## 📄 License
 
 This theme is licensed under GPL-3.0.
 
-## Credits
+## 👥 Credits
 
 - Author: ddh4r4m
 - Copyright: (c) 2024, ddh4r4m
 
-## Contributing
+## 🤝 Contributing
 
 Feel free to submit issues and pull requests to help improve this theme. 
