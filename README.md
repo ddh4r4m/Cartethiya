@@ -1,11 +1,11 @@
-# Cartethiya SDDM Theme
+# Makima SDDM Theme
 
 A modern and elegant login theme for SDDM (Simple Desktop Display Manager).
 
 ## 🖼️ Preview
 
 <div align="center">
-  <img src="screenshot.jpg" alt="Cartethiya Theme Preview" width="800"/>
+  <img src="screenshot.jpg" alt="Makima Theme Preview" width="800"/>
 </div>
 
 ## ✨ Features
@@ -30,12 +30,12 @@ A modern and elegant login theme for SDDM (Simple Desktop Display Manager).
 
 1. Clone this repository:
 ```bash
-git clone https://github.com/ddh4r4m/Cartethiya.git
+git clone https://github.com/ddh4r4m/Makima.git
 ```
 
 2. Run the installation script as root:
 ```bash
-cd Cartethiya
+cd Makima
 sudo ./install.sh
 ```
 
@@ -49,7 +49,7 @@ sudo nano /etc/sddm.conf
 2. Add or modify these lines:
 ```ini
 [Theme]
-Current=Cartethiya
+Current=Makima
 ```
 
 3. Restart SDDM:

@@ -1,5 +1,5 @@
 [SddmGreeterTheme]
-Name=Cartethiya
+Name=Makima
 Description=A modern and elegant SDDM theme
 Author=ddh4r4m
 Copyright=(c) 2024, ddh4r4m
@@ -9,5 +9,5 @@ Version=1.0
 Screenshot=screenshot.jpg
 MainScript=Main.qml
 ConfigFile=theme.conf
-Theme-Id=Cartethiya
+Theme-Id=Makima
 QtVersion=6

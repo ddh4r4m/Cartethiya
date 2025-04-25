@@ -269,7 +269,7 @@ Rectangle {
         id: identclock
         width: parent.width
         height: parent.height
-        opacity: 0.9
+        opacity: 0.6
         color: "transparent"
         Rectangle {
             height: 300
@@ -533,8 +533,8 @@ Rectangle {
                 anchors.bottomMargin: greetingLabel.height*2
                 height: 32
                 width: 250
-                color: "#fff"
-                placeholderTextColor: "#66FFFFFF"
+                color: "#D07476"  // dusty rose pink
+                placeholderTextColor: "#D0747666"  // semi-transparent dusty rose
                 echoMode: TextInput.Password
                 focus: true
                 font.weight: Font.DemiBold
@@ -548,8 +548,8 @@ Rectangle {
                 background: Rectangle {
                     implicitWidth: parent.width
                     implicitHeight: parent.height
-                    color: "#fff"
-                    opacity: 0.2
+                    color: "#E8A0A2"  // lighter shade of dusty rose
+                    opacity: 0.15
                     radius: 15
                 }
 

@@ -42,7 +42,7 @@ ColumnLayout {
 
     Label {
         id: dateLabel
-        color: "white"
+        color: "#D07476"  // dusty rose pink
         opacity: 0.85
         font.pointSize: 20
         font.weight: Font.DemiBold
@@ -53,7 +53,7 @@ ColumnLayout {
 
     Label {
         id: timeLabel
-        color: "white"
+        color: "#D07476"  // dusty rose pink
         opacity: 0.85
         font.pointSize: 100
         font.bold: true
